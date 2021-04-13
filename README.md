@@ -1,2 +1,5 @@
 # hello-world
-A new Repository
+
+Hi Humans!
+
+I'm working on 'how to use Git Hub'
